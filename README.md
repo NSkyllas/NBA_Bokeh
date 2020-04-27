@@ -4,7 +4,7 @@
 
 <hr>
 
-<h6>Nomikos Skyllas, nomikos.skyllas@gmail.com, [Github](https://github.com/NSkyllas/NBA_stats), [LinkedIn](https://www.linkedin.com/in/nomikos-skyllas/)</h6>  
+<h6>Nomikos Skyllas, nomikos.skyllas@gmail.com, <a href="https://github.com/NSkyllas/NBA_stats">Github</a>, <a href="https://www.linkedin.com/in/nomikos-skyllas/">LinkedIn</a></h6>  
 
 <html lang="en">
   
