@@ -1,4 +1,4 @@
-# Cool plot!
+# PCA interactive plot
 
 
 
