@@ -11,7 +11,7 @@
   <head>
     
       <meta charset="utf-8">
-      <title>Bokeh Plot</title>
+      <title>Interactive PCA Plot</title>
       
       
         
